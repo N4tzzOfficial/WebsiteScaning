@@ -28,18 +28,15 @@ Or download the script directly as a .py file.
 
 Navigate to the Directory:
 
-bash
 copy script
 cd website-scanner
+
 Install the Required Library:
 
-bash
-copy script
 pip install requests
 Usage
 Run the Script:
 
-copy Script
 python scanner.py
 Select an Option: You will see a menu with the following options:
 
@@ -66,8 +63,6 @@ Salin kode
 00) Exit
 If you choose 1) and enter https://example.com, you might see output like this:
 
-yaml
-Salin kode
 Scanning https://example.com...
 Status Code: 200
 Response Time: 0.123 seconds
@@ -77,8 +72,6 @@ X-Powered-By: PHP/7.4.3
 Error Handling
 If you enter an invalid URL or there are connectivity issues, the tool will display an error message, such as:
 
-javascript
-Salin kode
 Error scanning https://invalid-url: No connection could be made because the target machine actively refused it.
 Contributing
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
@@ -89,14 +82,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contact
 For any questions or feedback, please contact:
 
-N4tzzSquad(Owner): N4tzzOfficial@proton.me
-python
-Salin kode
-
-### Notes:
-- Replace `yourusername` and contact details with your actual GitHub username and email.
-- Customize any sections as needed to fit your project specifics. 
-
-This README provides clear instructions and details to help users understand and effectiv :Smile
-
-### DONT COPYRIGHT ALL MY IN MY GITHUB
+N4tzzOfficial: N4tzzOfficial@gmail.com / t.me/@n4tzzofficial
