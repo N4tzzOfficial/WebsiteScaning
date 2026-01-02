@@ -1,5 +1,5 @@
 # Website Scanner Tool
-By N4tzzSquad
+By N4tzzOfficial
 
 ## Overview
 
@@ -23,7 +23,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the Repository** (or download the script):
    ```bash
-   git clone https://github.com/N4tzz-Official/WebsiteScaning
+   git clone https://github.com/N4tzzOfficial/WebsiteScaning
 Or download the script directly as a .py file.
 
 Navigate to the Directory:
